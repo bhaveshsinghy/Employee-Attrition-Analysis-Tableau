@@ -129,7 +129,7 @@ Employee-Attrition-Analysis-Tableau/
 
 ## 🔗 Tableau Public Dashboard
 
-> https://public.tableau.com/views/Tableau-HR-Analytics-Dashboardc/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+> https://public.tableau.com/app/profile/bhavesh.singh2127/viz/Tableau-HR-Analytics-Dashboardc/Dashboard1
 
 ---
 
