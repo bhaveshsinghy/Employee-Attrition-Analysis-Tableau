@@ -129,11 +129,7 @@ Employee-Attrition-Analysis-Tableau/
 
 ## 🔗 Tableau Public Dashboard
 
-> Add your Tableau Public dashboard link here after publishing.
-
-Example:
-
-https://public.tableau.com/views/your-dashboard-link
+> https://public.tableau.com/views/Tableau-HR-Analytics-Dashboardc/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
